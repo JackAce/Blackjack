@@ -5,6 +5,9 @@ values range from -3 to +3, and it requires a side count of Aces
 
 | Attribute             | Value         |
 | ---                   | :-:           |
+| Betting Correlation   | 0.91          |
+| Playing Efficiency    | 0.69          |
+| Insurance Correlation | 0.90          |
 | Balanced Count        | Y             |
 | Side Counts           | Yes - Aces    |
 | True Count Divisor    | 1/2 Deck      |

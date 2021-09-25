@@ -4,6 +4,9 @@ The Revere Point Count is a level 2 counting systems from the book Playing Black
 
 | Attribute             | Value         |
 | ---                   | :-:           |
+| Betting Correlation   | 0.99          |
+| Playing Efficiency    | 0.55          |
+| Insurance Correlation | 0.78          |
 | Balanced Count        | Y             |
 | Side Counts           | Y (Aces)      |
 | True Count Divisor    | 1 Deck        |

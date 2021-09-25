@@ -4,6 +4,9 @@ The High Low count is one of the earliest devised card counting systems. It is o
 
 | Attribute             | Value         |
 | ---                   | :-:           |
+| Betting Correlation   | 0.97          |
+| Playing Efficiency    | 0.52          |
+| Insurance Correlation | 0.76          |
 | Balanced Count        | Y             |
 | Side Counts           | N             |
 | True Count Divisor    | 1 Deck        |
