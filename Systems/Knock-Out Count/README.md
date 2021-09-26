@@ -5,6 +5,9 @@ The Knock-Out Counting System (a.k.a. the Unbalanced Knock-Out System or the KO 
 
 | Attribute             | Value                             |
 | ---                   | :-:                               |
+| Betting Correlation   | 0.98                              |
+| Playing Efficiency    | 0.55                              |
+| Insurance Correlation | 0.78                              |
 | Balanced Count        | N                                 |
 | Side Counts           | N                                 |
 | True Count Divisor    | No True Count conversion needed   |

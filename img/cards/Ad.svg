@@ -1,0 +1,20 @@
+<svg version="1.1" width="136" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Copyright 2021 JackAce.com -->
+  <rect width="100%" height="100%" fill="#fff" opacity="0" />
+  <rect x="2" y="2" width="132" height="196" fill="#fff" rx="10" stroke="#000" stroke-width="2px" />
+  <g
+     font-family="Georgia,Helvetica Neue Regular,Times New Roman"
+     font-size="20"
+     text-anchor="middle"
+     fill="#c00"
+    >
+    <!-- Upper Left -->
+    <text x="15" y="25">A</text>
+    <text x="15" y="45">♦️</text>
+    <!-- Bottom Right -->
+    <text transform="translate(121, 174) scale(-1,-1)">A</text>
+    <text transform="translate(121, 154) scale(-1,-1)">♦️</text>
+    <!-- PIPs -->
+    <text font-size="70" x="68" y="125">♦️</text>
+  </g>
+</svg>
