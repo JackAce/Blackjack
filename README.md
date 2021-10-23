@@ -1,4 +1,4 @@
-# BlackjackCharts
+# Blackjack
 Charts for every blackjack counting system + basic strategy
 
 * [Basic Strategy](./Systems/Basic%20Strategy)
