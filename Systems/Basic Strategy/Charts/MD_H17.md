@@ -55,5 +55,9 @@
 | ![Rs](../../../img/actions/rs.svg)   | Surrender if possible, otherwise Stand                  |
 | ![Rp](../../../img/actions/rp.svg)   | Surrender if possible, otherwise Split                  |
 
+### Basic Strategy Video Flashcards
+
+[4+ Decks, Hit Soft 17s](https://www.youtube.com/watch?v=Tis_YoGzSOk&list=PLf7_Bpai9n_0XN9WbbBzSzQfgueTdb50l)
+
 ### Sources
 [Wizard of Odds](https://wizardofodds.com/games/blackjack/strategy/1-deck/), [Playing Blackjack as a Business](https://www.amazon.com/Playing-Blackjack-Business-Lawrence-Revere/dp/1607967626/)

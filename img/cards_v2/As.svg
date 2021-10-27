@@ -6,14 +6,14 @@
      font-family="Georgia,Helvetica Neue Regular,Times New Roman"
      font-size="40"
      text-anchor="middle"
-     fill="#c00"
+     fill="#000"
     >
     <!-- Upper Left -->
     <text x="30" y="45">A</text>
-    <text x="30" y="90">♦️</text>
+    <text x="30" y="90">♠️</text>
     <!-- PIPs -->
     <rect x="55" y="60" width="75" height="133" fill="#fff" rx="10" stroke="#999" stroke-width="1px" />
 
-    <text font-size="90" x="95" y="160">♦️</text>
+    <text font-size="70" x="95" y="160">♠️</text>
   </g>
 </svg>
