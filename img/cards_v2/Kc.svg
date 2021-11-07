@@ -6,21 +6,13 @@
      font-family="Georgia,Helvetica Neue Regular,Times New Roman"
      font-size="40"
      text-anchor="middle"
-     fill="#c00"
+     fill="#000"
     >
     <!-- Upper Left -->
-    <text x="28" y="40">5</text>
-    <text x="28" y="90">♦️</text>
+    <text x="30" y="45">K</text>
+    <text x="30" y="90">♣️</text>
     <!-- PIPs -->
-    <rect x="50" y="60" width="80" height="134" fill="#fff" rx="10" stroke="#999" stroke-width="1px" />
-    <g font-size="30">
-      <text x="64" y="89">♦️</text>
-      <text x="116" y="89">♦️</text>
+    <rect x="55" y="60" width="75" height="133" fill="#fff" rx="10" stroke="#999" stroke-width="1px" />
 
-      <text x="90" y="138.5">♦️</text>
-
-      <text x="64" y="188">♦️</text>
-      <text x="116" y="188">♦️</text>
-    </g>
   </g>
 </svg>
