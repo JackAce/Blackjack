@@ -56,7 +56,6 @@
 | ![Rp](../../../img/actions/rp.svg)   | Surrender if possible, otherwise Split                  |
 
 ### Deviations from 4+ Decks, Stand on Soft 17s
-
 | Index | Player Hand | Dealer Upcard | MDS17 | MDH17 |
 | :-- | :-- | :-: | :-: | :-: |
 | 040 | Hard 11 | Ace | ![H](../../../img/actions/h.svg) | ![Dh](../../../img/actions/dh.svg) |
@@ -66,14 +65,10 @@
 | 165 | Soft 19 (A-8) | 6 | ![S](../../../img/actions/s.svg) | ![Ds](../../../img/actions/ds.svg) |
 | 250 | Pair of 8s | Ace | ![P](../../../img/actions/p.svg) | ![Rp](../../../img/actions/rp.svg) |
 
-[Soundcloud: Blackjack Basic Strategy - 4+ Decks, Hit Soft 17s](https://soundcloud.com/jackacestudios/sets/blackjack-basic-strategy-mdh17)
-
 ### Basic Strategy Audio Flashcards
-
 [Soundcloud: Blackjack Basic Strategy - 4+ Decks, Hit Soft 17s](https://soundcloud.com/jackacestudios/sets/blackjack-basic-strategy-mdh17)
 
 ### Basic Strategy Video Flashcards
-
 [YouTube: Blackjack Basic Strategy - 4+ Decks, Hit Soft 17s](https://www.youtube.com/watch?v=Tis_YoGzSOk&list=PLf7_Bpai9n_0XN9WbbBzSzQfgueTdb50l)
 
 ### Sources
