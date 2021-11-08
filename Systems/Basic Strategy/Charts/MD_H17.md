@@ -71,5 +71,8 @@
 ### Basic Strategy Video Flashcards
 [YouTube: Blackjack Basic Strategy - 4+ Decks, Hit Soft 17s](https://www.youtube.com/watch?v=Tis_YoGzSOk&list=PLf7_Bpai9n_0XN9WbbBzSzQfgueTdb50l)
 
+### Other Basic Strategy Charts
+[1D S17](./1D_S17.md) | [1D H17](./1D_H17.md) | [2D S17](./2D_H17.md) | [2D H17](./2D_H17.md) | [MD S17](./MD_H17.md) | [MD H17](./MD_H17.md)
+
 ### Sources
-[Wizard of Odds](https://wizardofodds.com/games/blackjack/strategy/1-deck/), [Playing Blackjack as a Business](https://www.amazon.com/Playing-Blackjack-Business-Lawrence-Revere/dp/1607967626/)
+[Wizard of Odds - Blackjack Basic Strategy - 4 decks](https://wizardofodds.com/games/blackjack/strategy/4-decks/), [Playing Blackjack as a Business](https://www.amazon.com/Playing-Blackjack-Business-Lawrence-Revere/dp/1607967626/)

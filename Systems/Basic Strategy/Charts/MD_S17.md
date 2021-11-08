@@ -55,14 +55,15 @@
 | ![Rs](../../../img/actions/rs.svg)   | Surrender if possible, otherwise Stand                  |
 | ![Rp](../../../img/actions/rp.svg)   | Surrender if possible, otherwise Split                  |
 
+
+### Basic Strategy Audio Flashcards
+[Soundcloud: Blackjack Basic Strategy - 4+ Decks, Stand on Soft 17](https://soundcloud.com/jackacestudios/sets/blackjack-basic-strategy-mds17)
+
 ### Basic Strategy Video Flashcards
-
-[4+ Decks, Stand on Soft 17](https://www.youtube.com/watch?v=Tis_YoGzSOk&list=PLf7_Bpai9n_0Kxy1s0MX7wvOE94EZGbnV)
-
+[YouTube: Blackjack Basic Strategy - 4+ Decks, Stand on Soft 17](https://www.youtube.com/watch?v=Tis_YoGzSOk&list=PLf7_Bpai9n_0Kxy1s0MX7wvOE94EZGbnV)
 
 ### Other Basic Strategy Charts
-
 [1D S17](./1D_S17.md) | [1D H17](./1D_H17.md) | [2D S17](./2D_H17.md) | [2D H17](./2D_H17.md) | [MD S17](./MD_H17.md) | [MD H17](./MD_H17.md)
 
 ### Sources
-[Wizard of Odds](https://wizardofodds.com/games/blackjack/strategy/1-deck/), [Playing Blackjack as a Business](https://www.amazon.com/Playing-Blackjack-Business-Lawrence-Revere/dp/1607967626/)
+[Wizard of Odds - Blackjack Basic Strategy - 4 decks](https://wizardofodds.com/games/blackjack/strategy/4-decks/), [Playing Blackjack as a Business](https://www.amazon.com/Playing-Blackjack-Business-Lawrence-Revere/dp/1607967626/)
