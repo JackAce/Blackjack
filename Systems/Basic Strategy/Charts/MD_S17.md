@@ -50,10 +50,7 @@
 | ![Ds](../../../img/actions/ds.svg)   | Double if possible, otherwise Stand                     |
 | ![P](../../../img/actions/p.svg)     | Split                                                   |
 | ![Ph](../../../img/actions/ph.svg)   | Split if Double after splits allowed, otherwise Hit     |
-| ![Pd](../../../img/actions/pd.svg)   | Split if Double after splits allowed, otherwise Double  |
 | ![Rh](../../../img/actions/rh.svg)   | Surrender if possible, otherwise Hit                    |
-| ![Rs](../../../img/actions/rs.svg)   | Surrender if possible, otherwise Stand                  |
-| ![Rp](../../../img/actions/rp.svg)   | Surrender if possible, otherwise Split                  |
 
 
 ### Basic Strategy Audio Flashcards
